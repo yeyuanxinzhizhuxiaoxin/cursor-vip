@@ -18,17 +18,6 @@ bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest
 ```bash
 bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) cacf186acbc146dd819f15c90407525c
 ```
-方式3：手动下载二进制文件
-> 从 [release](https://github.com/kingparks/cursor-vip/releases) 页下载对应操作系统的二进制文件
-```shell
-# MaxOS/Linux
-sudo mv cursor-vip_xx_xxx /usr/local/bin/cursor-vip;
-chmod +x /usr/local/bin/cursor-vip;
-cursor-vip githubReadme;
-# Windows
-# 双击 cursor-vip_xx_xxx.exe
-```
-
 启动 cursor-vip：
 ```bash
 # MaxOS/Linux
