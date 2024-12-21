@@ -12,11 +12,12 @@ Open the terminal on MacOS/Linux; Open Git Bash on Windows. Then execute the fol
 
 Method 1: Install via GitHub script
 ```bash
-bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) cacf186acbc146dd819f15c90407525c
+bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) 4f1eec50153148d9a4dd45ca37462763
 ```
 Method 2: Install via ghp.ci proxy script
 ```bash
-bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) cacf186acbc146dd819f15c90407525c
+bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) 4f1eec50153148d9a4dd45ca37462763
+
 ```
 Launch cursor-vip：
 ```bash
